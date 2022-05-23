@@ -548,10 +548,10 @@ main .site-header .logo a {
 	outline: none;
 	font: 0/0 a;
 	text-shadow: none;
-	color: transparent;
-	width: 116px;
-	height: 80px;
-	background: url("../images/logo/") no-repeat;
+	/* color: transparent; */
+	width: 150px;
+	height: 150px;
+	background: url("../images/logo.jpeg") no-repeat;
 	background-size: contain;
 }
 
